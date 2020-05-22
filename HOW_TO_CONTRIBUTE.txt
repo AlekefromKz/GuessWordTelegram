@@ -1,0 +1,1 @@
+Just navigate to the project location and run the "PC_webparser.py" code.
